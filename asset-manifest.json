@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/movies/static/js/main.b31ac863.chunk.js",
+    "main.js.map": "/movies/static/js/main.b31ac863.chunk.js.map",
+    "runtime-main.js": "/movies/static/js/runtime-main.d025d6bc.js",
+    "runtime-main.js.map": "/movies/static/js/runtime-main.d025d6bc.js.map",
+    "static/js/2.90025674.chunk.js": "/movies/static/js/2.90025674.chunk.js",
+    "static/js/2.90025674.chunk.js.map": "/movies/static/js/2.90025674.chunk.js.map",
+    "index.html": "/movies/index.html",
+    "static/js/2.90025674.chunk.js.LICENSE.txt": "/movies/static/js/2.90025674.chunk.js.LICENSE.txt",
+    "static/media/Raya_and_the_Last_Dragon.3aae790d.jpeg": "/movies/static/media/Raya_and_the_Last_Dragon.3aae790d.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d025d6bc.js",
+    "static/js/2.90025674.chunk.js",
+    "static/js/main.b31ac863.chunk.js"
+  ]
+}
